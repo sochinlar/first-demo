@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-marshalling-serial-2.0.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jboss-marshalling-serial-2.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
